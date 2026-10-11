@@ -1,0 +1,13 @@
+{
+  "name": "my-standard-marketplace",
+  "owner": {
+    "name": "Thuong Ho"
+  },
+  "plugins": [
+    {
+      "name": "my-standards",
+      "source": "./",
+      "description": "Thuong Ho's personal coding standards and conventions."
+    }
+  ]
+}
