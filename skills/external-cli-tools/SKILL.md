@@ -1,9 +1,9 @@
 ---
-name: external-tools
+name: external-cli-tools
 description: Lists the CLIs installed in this environment and when to use each one instead of its MCP equivalent. Use before calling an MCP tool for Vercel (deployment status, project management, environment variables) or any other service that also has a CLI listed here.
 ---
 
-# External tools
+# External CLI tools
 
 Rule: if you already know the operation you need, run the CLI. Use the MCP server only to discover what exists or when the CLI lacks the operation.
 
